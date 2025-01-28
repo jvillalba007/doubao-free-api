@@ -1,4 +1,4 @@
-# Doubao AI Free 服务
+# Doubao AI Free 服务 (ByteDance)
 
 [![](https://img.shields.io/github/license/llm-red-team/doubao-free-api.svg)](LICENSE)
 ![](https://img.shields.io/github/stars/llm-red-team/doubao-free-api.svg)
